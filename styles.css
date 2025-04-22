@@ -1,0 +1,46 @@
+/* styling for attribution class was provided by Frontend Mentor */
+.attribution { 
+    margin-top: 15px;
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr-component-body {
+    height: 499px;
+    width: 320px;
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    padding: 16px 16px 40px 16px;
+    text-align: center;
+}
+
+.qr-component-body img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.text-section {
+    margin: auto 20px;
+}
+
+.qr-component-body h1 {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.qr-component-body p {
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+}
