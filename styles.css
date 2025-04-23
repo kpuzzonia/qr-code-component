@@ -15,7 +15,7 @@ body {
 .qr-component-body {
     height: 499px;
     width: 320px;
-    margin: auto;
+    margin: 100px auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     padding: 16px 16px 40px 16px;
