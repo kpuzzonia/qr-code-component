@@ -34,7 +34,6 @@ body {
 
 .qr-component-body h1 {
     font-family: "Outfit", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     color: hsl(218, 44%, 22%);
